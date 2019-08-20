@@ -3,7 +3,7 @@
     "bd_usuario":{
         "id":213123,
         "nome":"joao",
-        "objetivos":["malhar os braços","ficar mosntrao","fitnes"],
+        "objetivos":["malhar os braços","ficar mosntrao","poder postar memes da academia"],
         "amnamese":""
     },
     
@@ -13,7 +13,7 @@
         "grupo_muscular": "pernas",
         "nome_exercicio": "abdutor",
         "aparelho_numero": 0 
-    }
+        }
     },
 
 
@@ -33,6 +33,7 @@
         "id":"123123",
         "usuario_id":"123123",
         "rotina_treino_id":"123123",
+        "dia_do_Treino":"12312",
         "lista_exercicios_concluida":[
             {
                 "id_treino":12312323,
