@@ -1,0 +1,35 @@
+- Exercicio
+    -exercicio
+        -grupo_muscular
+        -nome_exercicio
+        -aparelho
+
+    -exercicio
+        -grupo_muscular
+        -nome_exercicio
+        -aparelho
+
+    
+
+
+- Rotina de treino
+    - Treino 1 - A   
+        -lista_de exercicios, quantidades_necessária
+    
+    - Treino 1 - B
+        -lista_de exercicios, quantidades_necessária
+
+
+
+
+
+- Realização_realizacao_treino
+    -treinando
+        -treino 
+            -exercicio1
+             realizado
+            -quantidade_feitas
+            -completo/nao
+
+
+

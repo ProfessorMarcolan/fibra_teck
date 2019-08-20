@@ -1,0 +1,48 @@
+//quando for no -1 é peso
+{
+    "bd_usuario":{
+        "id":213123,
+        "nome":"joao",
+        "objetivos":["malhar os braços","ficar mosntrao","fitnes"],
+        "amnamese":""
+    },
+    
+    "BD_Exercicios":{
+    "ID":"123123123",
+    "exercercio":{
+        "grupo_muscular": "pernas",
+        "nome_exercicio": "abdutor",
+        "aparelho_numero": 0 
+    }
+    },
+
+
+    "BD_rotinas_de_treino":{
+        "id": "12312312",
+        "usuario_id": 12323,
+        "nome_rotina":"treino 1 A frango",
+        "tempo_descando":20,
+        "lista_exercicios":[
+        {
+            "id_treino":"123123",
+            "repetições":3,
+            "quantridade_necessaria":3
+        }]
+    },
+    "BD_realização_treino":{
+        "id":"123123",
+        "usuario_id":"123123",
+        "rotina_treino_id":"123123",
+        "lista_exercicios_concluida":[
+            {
+                "id_treino":12312323,
+                "repetições_realizadas":3,
+                "peso_das_repeticoes":30
+            }
+        ]
+
+
+    }
+
+
+}
